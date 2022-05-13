@@ -1,0 +1,15 @@
+{
+    "title": "caesar",
+    "industry": [
+        "bfsi"
+    ],
+    "author": "authcaes",
+    "tags": [
+        "shakespeare",
+        "demo2"
+    ],
+    "services": [
+        "Watson Machine Learning",
+        "Cloud Pak for Integration"
+    ]
+}
